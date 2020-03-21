@@ -15,7 +15,7 @@ xcrun coremlcompiler compile MyModel.mlmodel MyModel.mlmodelc
 
 The inference time (per sample) is the average of 10 runs
 
-|                             | Swift Playground Inference Time (In Seconds) |  Xcode Inference Time (iphone 11 pro max) ((In Seconds)) | Xcode Inference Time (iphone 8) ((In Seconds)) | Model Size | RAM Usage |
+|                             | Swift Playground Inference Time (In Seconds) |  Xcode Inference Time (iphone 11 pro max simulator) ((In Seconds)) | Xcode Inference Time (iphone 8 simulator) ((In Seconds)) | Model Size | RAM Usage |
 | ------------------- | -------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ | ------------- | ------------- |                 
 | FP8                     | 0.00052147555591849                          |    0.000456584999887531                                          |           0.000495690699608531                         |              99KB| 22.8MB |
 | FP16                   | 0.000618779110178972                         |          0.00053541444584779                                      |                     0.000554279400239466              |193B |        23.1MB      |
