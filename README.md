@@ -1,6 +1,10 @@
 # EMNIST_iOS
 EMNIST quantization Demo for iOS
 
+To compile the coreML models for swift playgrounds:
+
+
+
 ## Results for Model-1
 
 The inference time (per sample) is the average of 10 runs
