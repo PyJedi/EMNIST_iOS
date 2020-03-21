@@ -3,12 +3,11 @@ EMNIST quantization Demo for iOS
 
 To compile the coreML models for swift playgrounds:
 
-'''
+```
 sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer
-'''
-'''
+
 xcrun coremlcompiler compile MyModel.mlmodel MyModel.mlmodelc
-'''
+```
 
 
 
