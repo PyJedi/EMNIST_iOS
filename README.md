@@ -3,7 +3,7 @@ EMNIST quantization Demo for iOS
 
 ## Results for Model-1
 
-The inference time is the average of 10 runs
+The inference time (per sample) is the average of 10 runs
 
 |                             | Swift Playground Inference Time (In Seconds) |  Xcode Inference Time (iphone 11 pro max) ((In Seconds)) | Xcode Inference Time (iphone 8) ((In Seconds)) | Model Size | RAM Usage |
 | ------------------- | -------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ | ------------- | ------------- |                 
